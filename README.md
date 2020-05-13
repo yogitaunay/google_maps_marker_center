@@ -1,5 +1,5 @@
 # Google Maps Flutter marker center
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/edwinmacalopu/google_maps_marker_center/blob/master/gifmap.gif?raw=true)
 ##### Important:
 add the google maps key in the route:
 ```sh
